@@ -1,2 +1,2 @@
 # tutorial 
-Author:- Rishav
+Author:- Rishav Raj
